@@ -1,0 +1,10 @@
+[package]
+name = "advent_day1"
+version = "0.1.0"
+authors = ["gp"]
+
+[dependencies]
+
+[[bin]]
+name = "advent_day1"
+path = "main.rs"
